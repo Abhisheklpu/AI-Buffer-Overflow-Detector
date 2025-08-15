@@ -61,10 +61,3 @@ The application uses a combination of static analysis and heuristic-based detect
 - **MEDIUM**: 30-59% risk score
 - **HIGH**: 60-100% risk score
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
